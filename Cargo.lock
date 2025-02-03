@@ -111,3 +111,6 @@ dependencies = [
 [[package]]
 name = "uniswap-toolbox"
 version = "0.1.0"
+dependencies = [
+ "uniswap-math",
+]
