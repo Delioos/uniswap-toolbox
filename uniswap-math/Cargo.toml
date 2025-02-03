@@ -1,0 +1,15 @@
+[package]
+name = "uniswap-math"
+version = "0.1.0"
+edition = "2021"
+description = "Mathematics library for Uniswap V3 & V4 calculations"
+license = "MIT"
+authors = ["Delioos <htz_j@protonmail.com>"]
+
+[dependencies]
+# For fixed-point arithmetic
+fixed = "1.28.0"
+# For big integer calculations
+num-bigint = "0.4.6"
+# For rational number calculations
+num-rational = "0.4.2"
