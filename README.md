@@ -25,3 +25,6 @@ To use the math library in your project:
 [dependencies]
 uniswap-math = "0.1.0"
 ```
+
+# Personal notes
+- might add a uniswap-backtest crate later to facilitate my backtesting strategies 
